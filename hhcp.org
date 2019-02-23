@@ -1,0 +1,21 @@
+Code, Language and the Abyss: A History of Human⇄Computer Programming
+
+* 001 The first program
+
+** Jaquard loom
+
+http://www.arthurchandler.com/napoleonic-expositions
+The year is 1801 and the 2nd Exposition des produits de l'industrie française (the parochial aim of showcasing national genius, enterprise) is taking place in Paris in the courtyard of the Louvre. (Context: What else happened that year? Industrial revolution? Darwin? Dickens? Thomas Jefferson sworn in as 3rd President of US, Britain and France continue the French Revolutionary Wars, a prelude to the Napoleonic wars, Napoleon is not yet crowned emporer) Gold medals were awarded to displays of fine, elaborately-engineered clocks, furniture, pottery. September 24: Joseph Marie Jacquard, a sometime weaver and straw hat maker from Lyon only won a bronze. It was noted the loom replaces a weaving worker, leading to threats against his life.
+
+Within 5 years, the government had recognised the importance of the loom, the advantage in weaving technology and the amount and quality and intricacy of the weaving it afforded, that they took posession of the patent, awarding Jaquard a pension for life, and within 10 years there were 11000 looms in France.
+
+It took Jacquard several more years to perfect the device and make it commercially successful.
+
+From: http://theinstitute.ieee.org/tech-history/technology-history/the-jacquard-loom-a-driver-of-the-industrial-revolution
+How it worked: Jacquard did not invent a whole new loom but a head that attaches to the loom and allows the weaving machine to create intricate patterns. Thus, any loom that uses the attachment is called a Jacquard loom.
+
+The state-of the art loom at that time was one in which the harnesses holding the threads were raised or lowered by foot pedals on a treadle, leaving the weaver free to operate the machine with his hands. The Jacquard loom, in contrast, was controlled by a chain of punch cards laced together in a sequence. Multiple rows of holes were punched on each card, with one complete card corresponding to one row of the design. Chains of cards allowed sequences of any length to be constructed, not limited by the cards’ size.
+
+Each hole position in the card corresponded to a hook, which could either be raised or lowered depending on whether the hole was punched. The hook raised or lowered the harness that carried and guided the thread. The sequence of raised and lowered threads created the pattern. A hook could be attached to a number of threads to create a continuous, intricate design.
+
+** Lady Ada

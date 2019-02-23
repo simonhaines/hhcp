@@ -1,0 +1,8 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
