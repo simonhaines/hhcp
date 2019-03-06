@@ -19,3 +19,26 @@ The state-of the art loom at that time was one in which the harnesses holding th
 Each hole position in the card corresponded to a hook, which could either be raised or lowered depending on whether the hole was punched. The hook raised or lowered the harness that carried and guided the thread. The sequence of raised and lowered threads created the pattern. A hook could be attached to a number of threads to create a continuous, intricate design.
 
 ** Lady Ada
+
+* 002 The first machines
+
+** Von Neumann
+
+First Draft of a Report on the EDVAC
+https://www.wiley.com/legacy/wileychi/wang_archi/supp/appendix_a.pdf
+
+As well as identifying the major components (logical, arithmetical, memory, i/o, clock, etc), proposes use of vacuum tubes as gates/triggers and thus a binary system for representing digits. Also parallel processing for multiplication etc. two's complement: "the sign plays the role of the digit farthest left".
+
+also introduced the notion of registers for the hardware/software interface, such as the output of the arithmetic unit.
+
+for those following along at home, the bit about programming comes right at the end.
+
+14.1 maybe first use of the word code? "It is therefore our immediate task to provide a list of the orders which control the device, i.e. to describe the code to be used in the device, and to define the mathematical and logical meaning and the operational significance of its code words." orders received come from memory: stored code.
+
+four classes of orders: carry out one of the 10 specific operations (eg. +-/*sqrt etc, primitives?); transfer a number from one place to another (load/store); transfer connection with memory to another place (jump or shift PC); control I/O.
+
+chapter 10: the code. mixes numbers and 'orders' together (delineated by the first bit: 0 = number, 1 = order)
+
+instruction packing and decoding: the first mnemonics. immediate mode load of the next number (cf transient/permanent jump).
+
+table at the end of end of section 15 contains the first nascent machine code mnemonics.
