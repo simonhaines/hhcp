@@ -18,7 +18,14 @@ The state-of the art loom at that time was one in which the harnesses holding th
 
 Each hole position in the card corresponded to a hook, which could either be raised or lowered depending on whether the hole was punched. The hook raised or lowered the harness that carried and guided the thread. The sequence of raised and lowered threads created the pattern. A hook could be attached to a number of threads to create a continuous, intricate design.
 
+Scott Berkun: "All ideas are made of other ideas"
+https://scottberkun.com/2011/ideas-are-made-of-other-ideas/
+
 ** Lady Ada
+From 'Parsing: a timeline' (link below)
+In her translator's note on an article on Babbage's computer, Ada Lovelace becomes the first person to clearly distinguish programming a computer (software) as a separate field from building the computer itself (hardware).[1] Ada is also the first to think of software in linguistic terms -- she originates the idea that, in writing software, we communicate with the computer, and that the means that we use to do that is a "language".[2]
+
+A new, a vast, and a powerful language is developed for the future use of analysis, in which to wield its truths so that these may become of more speedy and accurate practical application for the purposes of mankind than the means hitherto in our possession have rendered possible. Thus not only the mental and the material, but the theoretical and the practical in the mathematical world, are brought into more intimate and effective connexion with each other.[3]
 
 * 002 The first machines
 
@@ -42,3 +49,27 @@ chapter 10: the code. mixes numbers and 'orders' together (delineated by the fir
 instruction packing and decoding: the first mnemonics. immediate mode load of the next number (cf transient/permanent jump).
 
 table at the end of end of section 15 contains the first nascent machine code mnemonics.
+
+* C
+** History of C ​http://www.bell-labs.com/usr/dmr/www/chist.html
+c.f. the origin of printf and its impact on programming/debugging:
+ because the language could not live in isolation, the prototypes for the modern libraries were developed. In particular, Lesk wrote a `portable I/O package' [Lesk 72] that was later reworked to become the C `standard I/O' routines
+
+* Links
+
+** Graphs and charts of language history
+
+'Parsing: a timeline'
+https://jeffreykegler.github.io/personal/timeline_v3
+
+Programming Language Network (interactive)
+https://fatiherikli.github.io/programming-language-network/
+
+Computer Languages Timeline
+https://www.levenez.com/lang/
+
+Diagram and History of Programming Languages
+http://rigaux.org/language-study/diagram.html
+
+The Language List
+https://web.archive.org/web/20160506170543/http://people.ku.edu/~nkinners/LangList/Extras/langlist.htm
