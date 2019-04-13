@@ -19,3 +19,13 @@ The state-of the art loom at that time was one in which the harnesses holding th
 Each hole position in the card corresponded to a hook, which could either be raised or lowered depending on whether the hole was punched. The hook raised or lowered the harness that carried and guided the thread. The sequence of raised and lowered threads created the pattern. A hook could be attached to a number of threads to create a continuous, intricate design.
 
 ** Lady Ada
+
+* 002 The machine and its code
+
+** Alan Turing
+
+The tape machine. Turing completeness.
+
+** John von Neumann
+
+EDVAC, the von Neumann architecture, Harvard architecture
