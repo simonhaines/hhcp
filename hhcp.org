@@ -57,6 +57,19 @@ instruction packing and decoding: the first mnemonics. immediate mode load of th
 
 table at the end of end of section 15 contains the first nascent machine code mnemonics.
 
+
+* The creators series
+Looking at creators of multiple languages over their lifetime. What can we see of their philosophy to programming in the different lanuages they write?
+** Nicklaus Wirth
+Pascal, Modula 2, Oberon, any earlier?
+** Lars Bak
+BETA language (successor to Simula67), Self, (Strongtalk), (HotSpot), (v8), Dart, Toit (IOT platform) -- YouTube, CurryOn! London, 2019
+Heavily favours object orientation environment
+** Anders Hejlsberg
+Turbo Pascal, Visual Basic?, C#, TypeSript
+** Honorouble mentions: K&R
+C, Awk, Go
+
 * C
 ** History of C ​http://www.bell-labs.com/usr/dmr/www/chist.html
 c.f. the origin of printf and its impact on programming/debugging:
@@ -80,3 +93,6 @@ http://rigaux.org/language-study/diagram.html
 
 The Language List
 https://web.archive.org/web/20160506170543/http://people.ku.edu/~nkinners/LangList/Extras/langlist.htm
+** Lists of programming languages
+https://codelani.com/lists/languages.html
+A list of 3500+ languages
