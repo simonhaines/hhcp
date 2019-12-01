@@ -96,3 +96,8 @@ https://web.archive.org/web/20160506170543/http://people.ku.edu/~nkinners/LangLi
 ** Lists of programming languages
 https://codelani.com/lists/languages.html
 A list of 3500+ languages
+
+* Unclassified 
+
+The tapestry of advanced language implementation work is a very rich and interconnected one, the weaving of which is is an incredibly interesting task that can keep you happily occupied for a lifetime.
+Olin Shivers, History of T
