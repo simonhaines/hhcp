@@ -107,6 +107,9 @@ A list of 3500+ languages
 The tapestry of advanced language implementation work is a very rich and interconnected one, the weaving of which is is an incredibly interesting task that can keep you happily occupied for a lifetime.
 Olin Shivers, History of T
 
+"We revise factual history as we learn more about the past, and we alter our sense of how the past was in accordance."
+William Gibson, https://lareviewofbooks.org/article/tracking-realitys-fuckedness-quotient-an-interview-with-william-gibson/
+
 * Theme
 AudioMasher: https://audiomasher.org/learn
 # store melody in a table
