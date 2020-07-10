@@ -28,6 +28,8 @@ In her translator's note on an article on Babbage's computer, Ada Lovelace becom
 
 A new, a vast, and a powerful language is developed for the future use of analysis, in which to wield its truths so that these may become of more speedy and accurate practical application for the purposes of mankind than the means hitherto in our possession have rendered possible. Thus not only the mental and the material, but the theoretical and the practical in the mathematical world, are brought into more intimate and effective connexion with each other.[3]
 
+Stephen Wolfram Biography: https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/
+
 
 * 002 The machine and its code
 
@@ -112,8 +114,10 @@ William Gibson, https://lareviewofbooks.org/article/tracking-realitys-fuckedness
 
 * Theme
 AudioMasher: https://audiomasher.org/learn
+
+
 # store melody in a table
-_seq "0 5 0 4 0 3 5 0 3 0 8 5 3 8 5 3 0 7" gen_vals
+_seq "0 5 0 3 0 3 5 0 3 0 8 5 0 7 -5 -2" gen_vals
 
 # create beat and half-beat triggers
 _half var _beat var
@@ -126,7 +130,22 @@ _half get 2 0 tdiv _beat set
 
 # apply envelopes on beats and half-beats
 _half get 0.001 0.1 0.2 tenvx *
-_beat get 0.020 0.9 0.4 tenvx *
+_beat get 0.100 0.9 1.4 tenvx *
 
 # add delay
 dup (0.5 (4 inv) delay) (0.4 *) +
+
+# kick
+#_beat get 2 0 tdiv 0 0.00005 0.012 tenvx 400 * 60 +
+#_beat get 2 0 tdiv 0.001 0.005 0.04 tenvx 2 *
+#sine
+#+
+
+#snare
+#0.3 noise dup 
+#4000 0.5 0.5 lpf18
+#swap 8000 0.5 0.5 lpf18 0.5 * +
+#_beat get 0.0001 0.01 0.001 tenv 
+#dup 0 0.127 delay 0.3 * + 0.1 *
+#_beat get 4 2 tdiv 0.001 0.003 0.1 tenvx + *
+#+
